@@ -1,4 +1,4 @@
-#  
+#  Enhance Obsidian for macOS with Obsidian for macOS secure Automation - database templates and quick search, the #1 automation. Includes database templates and quick search for a
 
 
 
